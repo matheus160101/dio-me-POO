@@ -6,7 +6,7 @@ Este repositório contém a modelagem e implementação de um componente iPhone,
 ## Diagrama UML
 O diagrama UML das classes e interfaces foi criado para representar as funcionalidades descritas.
 
-![Diagrama UML do iPhone](Diagrama_UML.png)
+![Diagrama UML do iPhone](diagramaIphoneDio.png)
 
 ## Implementação
 
